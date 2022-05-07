@@ -17,7 +17,7 @@ Creation a “realistic” 3D graphical representation of the inside of a maze f
     * 1 for a wall
     * N,S,E or W for the player’s start position and spawning orientation.
     * The map must be closed/surrounded by walls, if not the program must return an error.
-This is a simple valid map:
+* This is a simple valid map:
 ```
 111111
 100101
