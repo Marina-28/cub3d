@@ -25,3 +25,4 @@ Creation a “realistic” 3D graphical representation of the inside of a maze f
 1100N1
 111111
 ```
+[screen]!(https://github.com/Marina-28/cub3d/blob/main/textures/screen.png)
