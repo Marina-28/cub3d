@@ -33,4 +33,4 @@ Creation a “realistic” 3D graphical representation of the inside of a maze f
 
 ![screen](https://github.com/Marina-28/cub3d/blob/main/textures/screen.png)
 
-* The project was implemented jointly with my peer Rbiodies, who made parser part.
+* The project was implemented jointly with my peer [Rbiodies](https://github.com/rbiodies), who made parser part.
